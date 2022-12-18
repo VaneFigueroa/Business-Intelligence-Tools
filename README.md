@@ -6,4 +6,4 @@ Business intelligence tools can identify new opportunities for businesses to mak
  1. [Tableau projects](https://public.tableau.com/app/profile/vanela.figueroa.robles)
  
  
- 1. [Power BI projects](https://public.tableau.com/app/profile/vanela.figueroa.robles)
+ 1. [Power BI projects](https://github.com/VaneFigueroa/Business-Intelligence-Tools)
